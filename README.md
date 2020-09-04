@@ -14,7 +14,7 @@
 4. View booked tickets history.
 
 
-> This project was implemented using Angular,HTML,CSS,Boostrap for the front-end and nodeJS for the back-end. The database was created and updated using MySQL.
+> This project was implemented using Angular,HTML,CSS,Bootstrap for the front-end and nodeJS for the back-end. The database was created and updated using MySQL.
 
 ## Team members : -->
 
